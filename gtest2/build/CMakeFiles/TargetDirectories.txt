@@ -1,0 +1,3 @@
+/home/m/Projects/CLionProjects/gtestExample/gtest2/build/CMakeFiles/rebuild_cache.dir
+/home/m/Projects/CLionProjects/gtestExample/gtest2/build/CMakeFiles/executeTests.dir
+/home/m/Projects/CLionProjects/gtestExample/gtest2/build/CMakeFiles/edit_cache.dir
