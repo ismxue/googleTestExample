@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/m/Projects/CLionProjects/gtestExample/gtest1/sqrt.cpp
+math.h
+-
+
+/home/m/Projects/CLionProjects/gtestExample/gtest1/sqrt_test.cpp
+sqrt.cpp
+/home/m/Projects/CLionProjects/gtestExample/gtest1/sqrt.cpp
+gtest/gtest.h
+-
+

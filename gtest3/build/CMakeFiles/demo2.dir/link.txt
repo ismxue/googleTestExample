@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/demo2.dir/demo2_bank.cpp.o  -o demo2 /usr/lib/libgtest.a -lpthread 

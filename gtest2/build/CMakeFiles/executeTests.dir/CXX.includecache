@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/m/Projects/CLionProjects/gtestExample/gtest2/Addition.cpp
+Addition.h
+/home/m/Projects/CLionProjects/gtestExample/gtest2/Addition.h
+
+/home/m/Projects/CLionProjects/gtestExample/gtest2/Addition.h
+
+/home/m/Projects/CLionProjects/gtestExample/gtest2/Addition_Test.cpp
+Addition.cpp
+/home/m/Projects/CLionProjects/gtestExample/gtest2/Addition.cpp
+gtest/gtest.h
+-
+
+/home/m/Projects/CLionProjects/gtestExample/gtest2/Main_TestAll.cpp
+Addition_Test.cpp
+/home/m/Projects/CLionProjects/gtestExample/gtest2/Addition_Test.cpp
+Multiply_Test.cpp
+/home/m/Projects/CLionProjects/gtestExample/gtest2/Multiply_Test.cpp
+gtest/gtest.h
+-
+
+/home/m/Projects/CLionProjects/gtestExample/gtest2/Multiply.cpp
+Multiply.h
+/home/m/Projects/CLionProjects/gtestExample/gtest2/Multiply.h
+
+/home/m/Projects/CLionProjects/gtestExample/gtest2/Multiply.h
+
+/home/m/Projects/CLionProjects/gtestExample/gtest2/Multiply_Test.cpp
+Multiply.cpp
+/home/m/Projects/CLionProjects/gtestExample/gtest2/Multiply.cpp
+gtest/gtest.h
+-
+
