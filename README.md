@@ -2,7 +2,7 @@
 
 > [GoogleTest User’s Guide官方教程](https://google.github.io/googletest/)
 > 
-> [Unit Testing C++ with Google Test](https://blog.jetbrains.com/rscpp/2015/09/01/unit-testing-google-test/)，以及[配套视频](https://www.youtube.com/watch?v=16FI1-d2P4E&t=5s)。
+> [Unit Testing C++ with Google Test](https://blog.jetbrains.com/rscpp/2015/09/01/unit-testing-google-test/)，以及[配套视频](https://www.youtube.com/watch?v=16FI1-d2P4E&t=5s)
 
 
 
